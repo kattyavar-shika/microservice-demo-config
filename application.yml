@@ -1,1 +1,7 @@
-
+app:
+  kattyavar:
+    shika:
+      name: config Demo
+      version: 1.0.0
+      description: you can put anything no issues.
+      profile: default profile
